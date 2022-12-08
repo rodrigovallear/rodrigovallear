@@ -1,5 +1,7 @@
 ### Rodrigo Valle Arguedas 
-
+  Estudiante de Economía de la PUCP
+  8vo ciclo
+  
 
 <!--
 **rodrigovallear/rodrigovallear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
