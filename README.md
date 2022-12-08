@@ -1,6 +1,6 @@
 # Rodrigo Valle Arguedas 
 
-  Estudiante regular de octavo ciclo de la carrera de Economía de la Pontificia Universidad Católica del Perú
+  Estudiante regular de octavo ciclo de la carrera de Economía de la Pontificia Universidad Católica del Perú, con intereses en áreas de Finanzas y Macroeconomía y experiencia en valorización de activos y evaluación de proyectos como asistente de analista financiero.
 
 
 ### My values:
