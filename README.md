@@ -14,6 +14,9 @@
   
   Mi metodología de trabajo consiste en la organización de mis deberes, de modo que me permite cumplirlas con de manera eficiente. Además, me resulta fácil adaptarme a las cosas nuevas, así como presentar un gran entusiasmo para realizarlo. Por último, me desenvuelvo fácilmente para los trabajos grupales, de modo que siempre un trabajo eficiente en el entorno que me toca trabajar.
 
+
+
+
 <!--
 **rodrigovallear/rodrigovallear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,3 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![rodrigovallear's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigovallear)](https://github.com/rodrigovallear/github-readme-stats)
+
