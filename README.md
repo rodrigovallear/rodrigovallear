@@ -27,7 +27,7 @@ Estudiante regular de octavo ciclo de la carrera de Economía de la Pontificia U
 - Stata, Python y R intermedio
 - Experiencia en elaboración de estados financieros, presupuestos y flujo de caja
 
-### Cómo trabajo 🧑‍💼:
+## Cómo trabajo 🧑‍💼:
   
   Mi metodología de trabajo consiste en la organización de mis deberes, de modo que me permite cumplirlas con de manera eficiente. Además, me resulta fácil adaptarme a las cosas nuevas, así como presentar un gran entusiasmo para realizarlo. Por último, me desenvuelvo fácilmente para los trabajos grupales, de modo que siempre un trabajo eficiente en el entorno que me toca trabajar.
 
