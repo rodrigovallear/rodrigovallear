@@ -31,17 +31,11 @@ Estudiante regular de octavo ciclo de la carrera de Economía de la Pontificia U
   
   Mi metodología de trabajo consiste en la organización de mis deberes, de modo que me permite cumplirlas con de manera eficiente. Además, me resulta fácil adaptarme a las cosas nuevas, así como presentar un gran entusiasmo para realizarlo. Por último, me desenvuelvo fácilmente para los trabajos grupales, de modo que siempre un trabajo eficiente en el entorno que me toca trabajar.
 
-<a href="https://github.com/ashwanisng">
+<a href="https://github.com/rodrigovallear">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 
-
-<a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=radical" />
-</a>    
 
 
 ##  Contact Me :speech_balloon:
