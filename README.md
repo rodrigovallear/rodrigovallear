@@ -1,7 +1,15 @@
 # Rodrigo Valle Arguedas 
-- Estudiante de Economía de la PUCP
-- octavo ciclo
 
+  Estudiante regular de octavo ciclo de la carrera de Economía de la Pontificia Universidad Católica del Perú
+
+
+### My values:
+- Excel intermedio
+- Stata intermedio
+- Python intermedio
+- R intermedio
+- Inglés intermedio
+- A
 
 
 <!--
