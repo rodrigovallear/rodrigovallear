@@ -39,7 +39,7 @@ Estudiante regular de octavo ciclo de la carrera de Economía de la Pontificia U
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@rodrigovallear-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rodrigovallear1)](https://twitter.com/rodrigovallear1)  [![Gmail Badge](https://img.shields.io/badge/-rodrigovallearguedas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigovallearguedas@gmail.com)](mailto:rodrigovallearguedas@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@rodrigovallear-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigovalle18/)](https://www.instagram.com/rodrigovalle18/)
+[![Twitter Badge](https://img.shields.io/badge/-@rodrigovallear1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rodrigovallear1)](https://twitter.com/rodrigovallear1)  [![Gmail Badge](https://img.shields.io/badge/-rodrigovallearguedas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigovallearguedas@gmail.com)](mailto:rodrigovallearguedas@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@rodrigovallear-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigovalle18/)](https://www.instagram.com/rodrigovalle18/)
 
 
 <!--
