@@ -1,14 +1,15 @@
 # Rodrigo Valle Arguedas 
 
-  Estudiante regular de octavo ciclo de la carrera de Economía de la Pontificia Universidad Católica del Perú, con intereses en áreas de Finanzas y Macroeconomía, y experiencia en elaboración de estados financieros y valorización de activos como asistente de analista financiero.
+  Estudiante regular de octavo ciclo de la carrera de Economía de la Pontificia Universidad Católica del Perú, con intereses en áreas de Finanzas y Macroeconomía, y experiencia laboral en elaboración de estados financieros y valorización de activos como asistente de analista financiero.
 
 
 ### My values:
+
 - Inglés Avanzado
 - Excel intermedio
 - Manejo de softwares como Stata, Python y R intermedio
 - Experiencia en elaboración de estados financieros, presupuestos y flujo de caja
-- 
+
 
 ### Cómo trabajo:
   
